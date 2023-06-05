@@ -36,442 +36,172 @@
         "domain": "example.com"
     },
     {
-        "link": "https://github.com/yeah-Games/collections-news",
-        "domain": "news.yeahgames.net",
-        "pages": [
-            {
-                "link": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo"
-            },
-            {
-                "link": "https://github.com/features/actions"
-            },
-            {
-                "link": "https://github.com/features/packages"
-            },
-            {
-                "link": "https://github.com/features/security"
-            },
-            {
-                "link": "https://github.com/features/codespaces"
-            },
-            {
-                "link": "https://github.com/features/copilot"
-            },
-            {
-                "link": "https://github.com/features/code-review"
-            },
-            {
-                "link": "https://github.com/features/issues"
-            },
-            {
-                "link": "https://github.com/features/discussions"
-            },
-            {
-                "link": "https://github.com/features"
-            },
-            {
-                "link": "https://github.com/enterprise"
-            },
-            {
-                "link": "https://github.com/team"
-            },
-            {
-                "link": "https://github.com/enterprise/startups"
-            },
-            {
-                "link": "https://github.com/solutions/ci-cd/"
-            },
-            {
-                "link": "https://github.com/customer-stories"
-            },
-            {
-                "link": "https://github.com/sponsors"
-            },
-            {
-                "link": "https://github.com/readme"
-            },
-            {
-                "link": "https://github.com/topics"
-            },
-            {
-                "link": "https://github.com/trending"
-            },
-            {
-                "link": "https://github.com/collections"
-            },
-            {
-                "link": "https://github.com/pricing"
-            },
-            {
-                "link": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fyeah-Games%2Fcollections-news"
-            },
-            {
-                "link": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=yEAh-Games%2Fcollections-news"
-            },
-            {
-                "link": "https://github.com/yEAh-Games"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news"
-            },
-            {
-                "link": "https://github.com/login?return_to=%2FyEAh-Games%2Fcollections-news"
-            },
-            {
-                "link": "https://github.com/login?return_to=%2FyEAh-Games%2Fcollections-news"
-            },
-            {
-                "link": "https://github.com/login?return_to=%2FyEAh-Games%2Fcollections-news"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/stargazers"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/forks"
-            },
-            {
-                "link": "https://github.com/login?return_to=%2FyEAh-Games%2Fcollections-news"
-            },
-            {
-                "link": "https://github.com/login?return_to=%2FyEAh-Games%2Fcollections-news"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/issues"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/pulls"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/actions"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/projects"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/security"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/pulse"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/issues"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/pulls"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/actions"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/projects"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/security"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/pulse"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/branches"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tags"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/branches"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tags"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/archive/refs/heads/main.zip"
-            },
-            {
-                "link": "https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=605362999"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/commits/main"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/e13c1b719ecbe6d4dccda6342540fa75224d59df"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/.github"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/_includes"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/_layouts"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/_pages"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/_posts"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/archive/img"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/assets"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/tree/main/search"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/.gitignore"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/404.html"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/CNAME"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/Gemfile"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/_config.yml"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/authors-list.html"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/docker-compose.yml"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/blob/main/index.html"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/stargazers"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/watchers"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/forks"
-            },
-            {
-                "link": "https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FyEAh-Games%2Fcollections-news&report=yEAh-Games+%28user%29"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/graphs/contributors"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/search?l=css"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/search?l=javascript"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/search?l=html"
-            },
-            {
-                "link": "https://github.com/yEAh-Games/collections-news/search?l=ruby"
-            }
-        ]
-    },
-    {
         "link": "/news/unveiling-yeah-games-arcade/",
         "title": "Unveilling the yEAh Games Arcade!",
-        "description": "yEAh and its leading online gaming platform, yEAh Games, is thrilled to announce the launch of their new professional website, the yEAh Games Arcade. This exciting development brings gaming enthusi...",
-        "pages": []
+        "description": "yEAh and its leading online gaming platform, yEAh Games, is thrilled to announce the launch of their new professional website, the yEAh Games Arcade. This exciting development brings gaming enthusi..."
     },
     {
         "link": "/news/roadmap-implementation-of-yauth/",
         "title": "Roadmap: Implementation of yAuth",
-        "description": "As part of our commitment to enhancing user experience and streamlining access to the yEAh Network, we are excited to introduce yAuth, a revolutionary JavaScript-based login system. By leveraging t...",
-        "pages": []
+        "description": "As part of our commitment to enhancing user experience and streamlining access to the yEAh Network, we are excited to introduce yAuth, a revolutionary JavaScript-based login system. By leveraging t..."
     },
     {
         "link": "/news/introducing-yeahgames-net/",
         "title": "Introducing yeahgames.net!",
-        "description": "In the modern world, online gaming has become one of the most popular forms of entertainment for people of all ages. With the rapid growth of technology, people can now access a variety of games on...",
-        "pages": []
+        "description": "In the modern world, online gaming has become one of the most popular forms of entertainment for people of all ages. With the rapid growth of technology, people can now access a variety of games on..."
     },
     {
         "link": "/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia/",
         "title": "Announcing the end of the line for the yEAh Encyclopedia",
-        "description": "After a long tenure, we\u2019ve announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we\u2019ve decided that it\u2019s best for...",
-        "pages": []
+        "description": "After a long tenure, we\u2019ve announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we\u2019ve decided that it\u2019s best for..."
     },
     {
         "link": "/news/vote-october-2022/",
         "title": "Vote in the October 2022 yEAh Elections!",
-        "description": "Vote in the October 2022 yEAh Games elections to decide the next co-owner of yEAh Games.VOTE IN THE 2022 yEAH GAMES ELECTIONS HERE:https://forms.gle/Z6sB6ccLCPGxJDv86Voting is mandatory for all Dis...",
-        "pages": []
+        "description": "Vote in the October 2022 yEAh Games elections to decide the next co-owner of yEAh Games.VOTE IN THE 2022 yEAH GAMES ELECTIONS HERE:https://forms.gle/Z6sB6ccLCPGxJDv86Voting is mandatory for all Dis..."
     },
     {
         "link": "/news/election-candidates-in-the-october-2022-yg-elections/",
         "title": "Election candidates in the October 2022 YG elections",
-        "description": "The following are the registered candidates and related information for the October 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, post...",
-        "pages": []
+        "description": "The following are the registered candidates and related information for the October 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, post..."
     },
     {
         "link": "/news/i-a-ann-roles-school-next-september/",
         "title": "ROLES -- School next September",
-        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #announcements channel. It has been since semi-automatically copied to a post on this websi...",
-        "pages": []
+        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #announcements channel. It has been since semi-automatically copied to a post on this websi..."
     },
     {
         "link": "/news/poll-yeah-games-meetups/",
         "title": "POLL -- yEAh Games meetups",
-        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #polls channel. It has been since semi-automatically copied to a post on this website, so c...",
-        "pages": []
+        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #polls channel. It has been since semi-automatically copied to a post on this website, so c..."
     },
     {
         "link": "/news/yeah-elections-2022-q2-results/",
         "title": "yEAh Elections \u2022 May 2022 \u2014 Results",
-        "description": "Official report: Voting week has ended and results are inAfter a week of voting with a choice of three parties, the elections have ended. The official results are as follows: @PPPPP Party (Purple P...",
-        "pages": []
+        "description": "Official report: Voting week has ended and results are inAfter a week of voting with a choice of three parties, the elections have ended. The official results are as follows: @PPPPP Party (Purple P..."
     },
     {
         "link": "/news/may-2022-candidates/",
         "title": "Election candidates in the May 2022 YG elections",
-        "description": "The following are the registered candidates and related information for the May 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, posted o...",
-        "pages": []
+        "description": "The following are the registered candidates and related information for the May 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, posted o..."
     },
     {
         "link": "/news/archived-ann-yeah-games-weebly-website/",
         "title": "Introducing the yEAh Games Weebly website!",
-        "description": "Note:This announcement is an old announcement. It is purely being archived for the sake of having it somewhere safe, permanently. The announcement may be completely out-of-date or not make sense in...",
-        "pages": []
+        "description": "Note:This announcement is an old announcement. It is purely being archived for the sake of having it somewhere safe, permanently. The announcement may be completely out-of-date or not make sense in..."
     },
     {
         "link": "http://news.yeahgames.net/news/archived-ann-yeah-games-weebly-website/",
         "title": "Introducing the yEAh Games Weebly website! | yEAh Games News",
-        "description": "Note:This announcement is an old announcement. It is purely being archived for the sake of having it somewhere safe, permanently. The announcement may be completely out-of-date or not make sense in the current context. This was an announcement that was originally posted on our official yEAh Games Discord server in the #announcements channel. It has been archived to a post on this website, so certain information may not make sense in this context. The website post's date may also not reflect the actual announcement's post date.As always, check the server for the most-up-to-date information.",
-        "pages": []
+        "description": "Note:This announcement is an old announcement. It is purely being archived for the sake of having it somewhere safe, permanently. The announcement may be completely out-of-date or not make sense in the current context. This was an announcement that was originally posted on our official yEAh Games Discord server in the #announcements channel. It has been archived to a post on this website, so certain information may not make sense in this context. The website post's date may also not reflect the actual announcement's post date.As always, check the server for the most-up-to-date information."
     },
     {
         "link": "http://news.yeahgames.net/news/may-2022-candidates/",
         "title": "Election candidates in the May 2022 YG elections | yEAh Games News",
-        "description": "The following are the registered candidates and related information for the May 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, posted on the home page of this website.",
-        "pages": []
+        "description": "The following are the registered candidates and related information for the May 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, posted on the home page of this website."
     },
     {
         "link": "http://news.yeahgames.net/news/yeah-elections-2022-q2-results/",
         "title": "yEAh Elections \u2022 May 2022 \u2014 Results | yEAh Games News",
-        "description": "Official report: Voting week has ended and results are in",
-        "pages": []
+        "description": "Official report: Voting week has ended and results are in"
     },
     {
         "link": "http://news.yeahgames.net/news/poll-yeah-games-meetups/",
         "title": "POLL -- yEAh Games meetups | yEAh Games News",
-        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #polls channel. It has been since semi-automatically copied to a post on this website, so certain information may not make sense in this context. The website post's date may also not reflect the actual announcement's post date.This announcement was a poll; in order to participate and vote, you must go to the #polls channel and interact with the message.As always, check the server for the most-up-to-date information.",
-        "pages": []
+        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #polls channel. It has been since semi-automatically copied to a post on this website, so certain information may not make sense in this context. The website post's date may also not reflect the actual announcement's post date.This announcement was a poll; in order to participate and vote, you must go to the #polls channel and interact with the message.As always, check the server for the most-up-to-date information."
     },
     {
         "link": "http://news.yeahgames.net/news/i-a-ann-roles-school-next-september/",
         "title": "ROLES -- School next September | yEAh Games News",
-        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #announcements channel. It has been since semi-automatically copied to a post on this website, so certain information may not make sense in this context. The website post's date may also not reflect the actual announcement's post date.This announcement was an interactive announcement, and to interact with it, you must visit the original message on the Discord server.As always, check the server for the most-up-to-date information.",
-        "pages": []
+        "description": "Note:This was an announcement that was originally posted on our official yEAh Games Discord server in the #announcements channel. It has been since semi-automatically copied to a post on this website, so certain information may not make sense in this context. The website post's date may also not reflect the actual announcement's post date.This announcement was an interactive announcement, and to interact with it, you must visit the original message on the Discord server.As always, check the server for the most-up-to-date information."
     },
     {
         "link": "http://news.yeahgames.net/news/election-candidates-in-the-october-2022-yg-elections/",
         "title": "Election candidates in the October 2022 YG elections | yEAh Games News",
-        "description": "The following are the registered candidates and related information for the October 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, posted here.",
-        "pages": []
+        "description": "The following are the registered candidates and related information for the October 2022 yEAh Games elections. You can vote for them in the election by choosing their party name on the ballot, posted here."
     },
     {
         "link": "http://news.yeahgames.net/news/vote-october-2022/",
         "title": "Vote in the October 2022 yEAh Elections! | yEAh Games News",
-        "description": "Vote in the October 2022 yEAh Games elections to decide the next co-owner of yEAh Games.",
-        "pages": []
+        "description": "Vote in the October 2022 yEAh Games elections to decide the next co-owner of yEAh Games."
     },
     {
         "link": "http://news.yeahgames.net/news/announcing-the-end-of-the-line-for-the-yeah-encyclopedia/",
         "title": "Announcing the end of the line for the yEAh Encyclopedia | yEAh Games News",
-        "description": "After a long tenure, we\u2019ve announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we\u2019ve decided that it\u2019s best for the company.",
-        "pages": []
+        "description": "After a long tenure, we\u2019ve announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we\u2019ve decided that it\u2019s best for the company."
     },
     {
         "link": "http://news.yeahgames.net/news/introducing-yeahgames-net/",
         "title": "Introducing yeahgames.net! | yEAh Games News",
-        "description": "In the modern world, online gaming has become one of the most popular forms of entertainment for people of all ages. With the rapid growth of technology, people can now access a variety of games online, anytime and anywhere. The website \u201cyeahgames.net\u201d is one such platform that offers an extensive library of games, quotes, documents, and Yible chapters. Moreover, it has a built-in chat to bypass school restrictions, and offers a plethora of Yeah Very Fungible Tokens (YVFTs) to enhance the user experience.",
-        "pages": []
+        "description": "In the modern world, online gaming has become one of the most popular forms of entertainment for people of all ages. With the rapid growth of technology, people can now access a variety of games online, anytime and anywhere. The website \u201cyeahgames.net\u201d is one such platform that offers an extensive library of games, quotes, documents, and Yible chapters. Moreover, it has a built-in chat to bypass school restrictions, and offers a plethora of Yeah Very Fungible Tokens (YVFTs) to enhance the user experience."
     },
     {
         "link": "http://news.yeahgames.net/news/roadmap-implementation-of-yauth/",
         "title": "Roadmap: Implementation of yAuth | yEAh Games News",
-        "description": "As part of our commitment to enhancing user experience and streamlining access to the yEAh Network, we are excited to introduce yAuth, a revolutionary JavaScript-based login system. By leveraging the power of JavaScript and the capabilities of the GitHub & yEAh API, yAuth will provide seamless login functionality, centralized account management, personalized control over user settings, and the ability to stay logged in across our network.",
-        "pages": []
+        "description": "As part of our commitment to enhancing user experience and streamlining access to the yEAh Network, we are excited to introduce yAuth, a revolutionary JavaScript-based login system. By leveraging the power of JavaScript and the capabilities of the GitHub & yEAh API, yAuth will provide seamless login functionality, centralized account management, personalized control over user settings, and the ability to stay logged in across our network."
     },
     {
         "link": "http://news.yeahgames.net/news/unveiling-yeah-games-arcade/",
         "title": "Unveilling the yEAh Games Arcade! | yEAh Games News",
-        "description": "yEAh and its leading online gaming platform, yEAh Games, is thrilled to announce the launch of their new professional website, the yEAh Games Arcade. This exciting development brings gaming enthusiasts a one-stop destination to play a vast collection of classic and modern titles, including N64, SNES, GBA, PS5, and Nintendo Switch games, all free of charge and playable on any device, in your browser!",
-        "pages": []
+        "description": "yEAh and its leading online gaming platform, yEAh Games, is thrilled to announce the launch of their new professional website, the yEAh Games Arcade. This exciting development brings gaming enthusiasts a one-stop destination to play a vast collection of classic and modern titles, including N64, SNES, GBA, PS5, and Nintendo Switch games, all free of charge and playable on any device, in your browser!"
     },
     {
         "link": "http://news.yeahgames.net/authors/aidan.html",
         "title": "aidan | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/authors.html",
         "title": "Authors | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/categories.html",
         "title": "Categories | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/contact",
         "title": "Contact | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/",
         "title": "Home | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection..",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection.."
     },
     {
         "link": "http://news.yeahgames.net/privacy-policy.html",
         "title": "Privacy Policy | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/tags.html",
         "title": "Tags | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/authors/tallinn.html",
         "title": "tallinn | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/authors/yeahgames.html",
         "title": "yeahgames | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection.",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection."
     },
     {
         "link": "http://news.yeahgames.net/page2/",
         "title": "Home | yEAh Games News",
-        "description": "All news relating to yEAh Games is published directly to this library collection..",
-        "pages": []
+        "description": "All news relating to yEAh Games is published directly to this library collection.."
     },
     {
         "link": "http://news.yeahgames.net/authors-list.html",
+        "title": "",
+        "description": ""
+    },
+    {
+        "link": "https://github.com/yeah-Games/collections-news",
         "title": "",
         "description": "",
         "pages": []

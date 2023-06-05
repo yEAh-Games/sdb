@@ -1,7 +1,6 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-import yaml
 
 # Function to crawl Jekyll JSON files and update index
 def crawl_jekyll_json(url, index_file):
@@ -52,27 +51,34 @@ def crawl_xml_sitemaps(url, index_file):
                 append_to_index(page_data, index_file)
 
 # Function to crawl GitHub repository and update index
-def crawl_github_repo(url, index_file, github_index_file):
+def crawl_github_repo(url, index_file):
     response = requests.get(url)
     if response.status_code == 200:
         page_data = {
             'link': url,
-            'domain': '',
+            'title': '',
+            'description': '',
             'pages': []
         }
 
         soup = BeautifulSoup(response.text, 'html.parser')
         for link in soup.find_all('a'):
             href = link.get('href')
-            if href.startswith('/') and not href.endswith('.git'):
+            if href.startswith('/') and not href.endswith('.git') and url in href and href.count('/') > url.count('/'):
                 page_url = 'https://github.com' + href
-                page_data['pages'].append({'link': page_url})
+                page_response = requests.get(page_url)
+                if page_response.status_code == 200:
+                    page_content = page_response.text
+                    page_soup = BeautifulSoup(page_content, 'html.parser')
+
+                    # Extract the title
+                    title_element = page_soup.find('title')
+                    page_title = title_element.text if title_element else ''
+
+                    page_data['pages'].append({'link': page_url, 'title': page_title})
 
         # Append the page_data to the index.json file
         append_to_index(page_data, index_file)
-
-        # Output the GitHub index objects to a separate JSON file
-        output_github_index(page_data, github_index_file)
 
 # Function to get existing data for a given link from index.json file
 def get_data_from_index(link, index_data):
@@ -108,13 +114,6 @@ def append_to_index(page_data, index_file):
         json.dump(index_data, f, indent=4)
     print(f"Added/updated {list(page_data.keys())} in {page_data['link']}")
 
-# Function to output GitHub index objects to a separate JSON file
-def output_github_index(page_data, output_file):
-    github_index_data = page_data['pages']
-    with open(output_file, 'a') as f:
-        json.dump(github_index_data, f, indent=4)
-    print(f"Added GitHub index objects to {output_file}")
-
 # Read the list of URLs from a plain text file
 def read_url_list(file_path):
     with open(file_path, 'r') as f:
@@ -137,12 +136,6 @@ def main():
     for url in xml_sitemap_urls:
         crawl_xml_sitemaps(url, xml_sitemap_index_file)
 
-    # Read the list of GitHub repository URLs
-    github_repo_urls = read_url_list('../db/github.txt')
-    github_index_file = '../index/web/v1/github.com.json'
-    # Crawl GitHub repositories and update index
-    for url in github_repo_urls:
-        crawl_github_repo(url, jekyll_json_index_file, github_index_file)
-
 # Execute the main function
-main()
+if __name__ == '__main__':
+    main()
